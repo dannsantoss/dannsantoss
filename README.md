@@ -1,8 +1,9 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá 👋 E aí?</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Meu nome é Danilo e eu sou um estudante de programação, 
+  atualmente procuro uma vaga de estagio </p>
 
 ###
 
@@ -12,7 +13,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
