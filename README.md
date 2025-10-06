@@ -17,11 +17,14 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">
+  📚Atualmente estou aprendendo Java e SpringBoot. <br>
+  🎯 Objetivos: Se um grande desenvolvedor de software. <br>
+  🎲 Curiosidade: Já servir a Marinha Do Brasil e lá desenvolvir habilidades como Trabalho em equipe , proatividade e resposabilidade. </p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Minhas Linguagens </h2>
 
 ###
 
